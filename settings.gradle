@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'jceph'
-include('app', 'list', 'utilities')
+include 'rados'
+
